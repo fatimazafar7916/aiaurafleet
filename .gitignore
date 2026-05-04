@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Exclude aurafleet folder (old HTML version)
+/aurafleet/
+
+# Exclude Python scripts
+*.py
+
+# Exclude VS Code settings
+.vscode/
+.vercelignore
